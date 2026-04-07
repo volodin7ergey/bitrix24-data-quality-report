@@ -5,11 +5,44 @@
 Позволяет находить компании, контакты и сделки с незаполненными данными.
 </p>
 
+<h2>🔹 Демонстрация работы приложения</h2>
+
 <div width="100%" align="center">
-<table width="600px" cellSpacing="1" cellpadding="1" border="1">
-<tr><td><img width="600px" src="media/demo.gif"></td></tr>
+<table width="100%" cellpadding="1" border="1">
+<tr align="center"><td><img  src="media/demo.gif" alt="Работа приложения в реальном времени"> <br>
+
+<em >Работа приложения в реальном времени</em></td></tr>
+
 </table>
 </div>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<em>Начальный экран</em>
+</td>
+
+<td align="center">
+<img src="media/screen-3.png" width="100%" alt="Вывод проблемных данных"><br>
+<em>Вывод проблемных данных</em>
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="media/screen-4.png" width="100%" alt="Фильтрация по типу сущности"><br>
+<em>Фильтрация по типу сущности</em>
+</td>
+
+<td align="center">
+<img src="media/screen-5.png" width="100%" alt="Фильтрация по дате"><br>
+<em>Фильтрация по дате</em>
+</td>
+</tr>
+</table>
 
 <hr>
 
@@ -93,43 +126,6 @@
 
 <hr>
 
-<h2>🔹 Демонстрация работы приложения</h2>
-
-<table>
-<tr>
-<td align="center">
-<img src="media/screen-1.png" width="300"><br>
-<em>Загрузка приложения</em>
-</td>
-
-<td align="center">
-<img src="media/screen-2.png" width="300"><br>
-<em>Начальный экран</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-3.png" width="300"><br>
-<em>Вывод проблемных данных</em>
-</td>
-
-<td align="center">
-<img src="media/screen-4.png" width="300"><br>
-<em>Фильтр по типу сущности</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-5.png" width="300"><br>
-<em>Фильтр по дате</em>
-</td>
-</tr>
-</table>
-
-<hr>
-
 <h2>🔹 Использованные технологии</h2>
 
 <ul>
@@ -146,4 +142,5 @@
 
 Telegram: <a href="https://t.me/volodin7ergey">@volodin7ergey</a><br>
 VK: <a href="https://vk.com/volodin7ergey">vk.com/volodin7ergey</a>
+
 </p>
