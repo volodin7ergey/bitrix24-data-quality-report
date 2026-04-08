@@ -20,12 +20,12 @@
 <tr>
 
 <td align="center">
-<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<img src="media/screen-1.jpg" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%" alt="Вывод проблемных данных"><br>
+<img src="media/screen-2.jpg" width="100%" alt="Вывод проблемных данных"><br>
 <em>Вывод проблемных данных</em>
 </td>
 </tr>
@@ -33,12 +33,12 @@
 <tr>
 
 <td align="center">
-<img src="media/screen-4.png" width="100%" alt="Фильтрация по типу сущности"><br>
+<img src="media/screen-3.jpg" width="100%" alt="Фильтрация по типу сущности"><br>
 <em>Фильтрация по типу сущности</em>
 </td>
 
 <td align="center">
-<img src="media/screen-5.png" width="100%" alt="Фильтрация по дате"><br>
+<img src="media/screen-4.jpg" width="100%" alt="Фильтрация по дате"><br>
 <em>Фильтрация по дате</em>
 </td>
 </tr>
